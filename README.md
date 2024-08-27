@@ -1,9 +1,16 @@
 <img src="/assets/img/Apresentação.jpg">
 
-# Equipe:
-<img src="/assets/img/Sprint III/ScrumTeam.jpg">
-
-
+# Equipe/Scrum Team:
+### Scrum Master
+* Celso Rocha
+### Product Owner
+* Angelina Borroni
+### Dev Team
+* Renan Tomasi
+* Vitor Ribeiro
+* Maria Fernanda Diniz
+* Raphaela Monteiro
+* João Pedro Cava
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
